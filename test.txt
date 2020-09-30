@@ -1,3 +1,7 @@
 first add
 hello world
+<<<<<<< HEAD
 code conclick2
+=======
+code conclick1
+>>>>>>> a350748aedf05845b40909e03a741104b8739684
