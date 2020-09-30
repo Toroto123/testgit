@@ -5,4 +5,8 @@ code conclick2
 =======
 code conclick1
 >>>>>>> a350748aedf05845b40909e03a741104b8739684
+<<<<<<< HEAD
 add2
+=======
+test1
+>>>>>>> 51e7751b98d5677bdcf3e2d92b7caa659463b4b1
